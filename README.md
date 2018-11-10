@@ -34,15 +34,24 @@ Dodge : It is possible to dodge an attack by crouching at the right moment !
 
 III.Commands
 
-J1 : Q  /  D 
+J1 : Q  /  D
+
 J2 : ⏴ / ⏵ 
-Accroupis :
+
+Crouch :
+
 J1 : S
 J2 : ⏷
-Sauts :
-J1 : Barre Espace
-J2 : Enter (Pavé numérique)
-Attaque :
+
+Jump :
+
+J1 : Space bar
+
+J2 : Enter (numeric pad)
+
+Attack :
+
 J1 : G
-J2 : 0 (Pavé Numérique)
+
+J2 : 0 (numeric pad)
 
