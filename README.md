@@ -2,7 +2,7 @@
 
 A little video game I created for a project with a schoolmate.
 
-I.Getting started
+##I.Getting started
 
 Required : C++ 11 , SDL2, Boost.test
 
@@ -14,7 +14,7 @@ Launching unit testing  :
 Choose which class to test: in the file "Makefile" choose a test among the available ones (in comments) by placing them uncommented after "TESTSRC =""
 Then launch the command "make Unitest" at the root of the folder src to compile and run the test.
 
-II.How to play
+##II.How to play
 
 Goal:
    
@@ -32,7 +32,7 @@ Parry : It is possible to parry an attack by attacking the opponent at the right
 
 Dodge : It is possible to dodge an attack by crouching at the right moment !
 
-III.Commands
+##III.Commands
 
 J1 : Q  /  D
 
